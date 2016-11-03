@@ -1,5 +1,8 @@
 # think-work-wechat
 
+![NPM version](https://badge.fury.io/js/think-work-wechat.svg)
+![Downloads](http://img.shields.io/npm/dm/think-work-wechat.svg?style=flat)
+
 ## Install
 
 ```

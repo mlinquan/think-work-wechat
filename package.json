@@ -46,7 +46,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "<Github URL>"
+    "url": "https://github.com/mlinquan/think-work-wechat"
   },
   "engines": {
     "node": ">=0.12.0"
@@ -54,6 +54,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "<Github URL>/issues"
+    "url": "https://github.com/mlinquan/think-work-wechat/issues"
   }
 }
