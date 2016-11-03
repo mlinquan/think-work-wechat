@@ -1,7 +1,7 @@
 {
   "name": "think-work-wechat",
-  "description": "",
-  "version": "1.0.0",
+  "description": "thinkjs企业微信插件(非微信企业号)",
+  "version": "1.0.1",
   "author": "LinQuan",
   "scripts": {
     "test": "mocha --reporter spec --timeout 300000 --recursive test/",
